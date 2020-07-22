@@ -34,13 +34,6 @@
     <script type="application/javascript"
             src="chrome://aios/content/aios_tbx.js" />
 
-    <stringbundleset id="stringbundleset">
-        <stringbundle id="aiosPlatformStrings"
-                      src="chrome://global-platform/locale/platformKeys.properties" />
-        <stringbundle id="aiosProperties"
-                      src="chrome://aios/content/aios.properties" />
-    </stringbundleset>
-
     <!-- AiOS Broadcaster -->
     <broadcasterset id="mainBroadcasterSet">
         <broadcaster id="viewBookmarksSidebar"
