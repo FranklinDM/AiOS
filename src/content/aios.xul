@@ -33,8 +33,6 @@
             src="chrome://aios/content/aios_fx.js" />
     <script type="application/javascript"
             src="chrome://aios/content/aios_tbx.js" />
-    <script type="application/javascript"
-            src="chrome://aios/content/aios_compatibility.js" />
 
     <stringbundleset id="stringbundleset">
         <stringbundle id="aiosPlatformStrings"
