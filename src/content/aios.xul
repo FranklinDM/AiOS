@@ -620,6 +620,7 @@
             <toolbar id="aios-toolbar"
                      class="chromeclass-toolbar"
                      toolbarname="&toolbar.name;"
+                     toolbarlabel="&toolbar.name;"
                      context="aios-toolbar-contextmenu"
                      fullscreentoolbar="true"
                      customizable="true"
@@ -629,7 +630,6 @@
                      defaultset="bookmarks-button,history-button,downloads-button,separator,addons-button,multipanel-button,pageinfo-button,separator"
                      orient="vertical"
                      flex="1"
-                     toolbarlabel="&toolbar.label;:"
                      posMode="1"
                      flexbuttons="false">
 
@@ -723,13 +723,13 @@
                     <toolbar id="aios-sbhtoolbar"
                              class="chromeclass-toolbar"
                              toolbarname="&sbhtoolbar.name;"
+                             name="&sbhtoolbar.name;"
                              context="aios-sbhtoolbar-contextmenu"
                              customizable="true"
                              mode="icons"
                              iconsize="small"
                              persist="mode iconsize"
                              defaultset="autohide-button,paneltab-button,sidebarclose-button"
-                             toolbarlabel="&sbhtoolbar.label;:"
                              fullscreentoolbar="true"
                              flexbuttons="false">
 
